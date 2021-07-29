@@ -1,7 +1,8 @@
 ---
 title: GBソフト電池交換
 date: 2021-07-28 17:33:30
-tags: retro game
+categories: Retro Game
+tags: Retro Game
 ---
 
 ![](/images/IMG_1878.jpg)
